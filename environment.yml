@@ -20,5 +20,5 @@ dependencies:
   - Pillow=6.2.0
   - pip:
     - datachile
-
+    - xmlx
 
